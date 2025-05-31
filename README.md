@@ -1,9 +1,13 @@
-# React + Vite
+# To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and minimal To-Do List app built with React and Vite.
 
-Currently, two official plugins are available
+- Fast setup with Vite
+- Hot Module Reloading (HMR)
+- Linting with ESLint
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# to check this simple to do list click the link https://abye12345.github.io/To-do-list/
+Try it live: [To-Do List Demo](https://abye12345.github.io/To-do-list/)
+
+---
+
+Powered by [Vite](https://vitejs.dev/) and [React](https://react.dev/).
